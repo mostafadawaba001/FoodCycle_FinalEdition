@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/27275487/README.1.md)
 
 # 🍎 Food Cycle: Surplus Food Management System
 **University:** Mansoura University  
